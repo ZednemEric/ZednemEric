@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @ZednemEric or if you want a government name it's Eric Mendez.
-- 👀 I’m becoming a Cloud Application Developer with AWS with the ultimate goal of becoming a Cloud DevOps Engineeer
-- 🌱 I’m currently enrolled in the AWS Cloud Institute. 
+- 👋 Hi, I’m Eric Mendez
+-  AWS x4 Certified
+- Cloud Practitioner  | Solutions Architect Associate
+- Developer Associate | AI Practitioner 
 - 🤖 DevOps and AI/ML are here and a part of my world.
    
 
